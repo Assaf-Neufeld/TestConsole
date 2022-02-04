@@ -1,0 +1,15 @@
+C:\Repos-github\TestConsole\bin\Debug\net6.0\TestConsole.exe
+C:\Repos-github\TestConsole\bin\Debug\net6.0\TestConsole.deps.json
+C:\Repos-github\TestConsole\bin\Debug\net6.0\TestConsole.runtimeconfig.json
+C:\Repos-github\TestConsole\bin\Debug\net6.0\TestConsole.dll
+C:\Repos-github\TestConsole\bin\Debug\net6.0\ref\TestConsole.dll
+C:\Repos-github\TestConsole\bin\Debug\net6.0\TestConsole.pdb
+C:\Repos-github\TestConsole\obj\Debug\net6.0\TestConsole.csproj.AssemblyReference.cache
+C:\Repos-github\TestConsole\obj\Debug\net6.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos-github\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfoInputs.cache
+C:\Repos-github\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfo.cs
+C:\Repos-github\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\Repos-github\TestConsole\obj\Debug\net6.0\TestConsole.dll
+C:\Repos-github\TestConsole\obj\Debug\net6.0\ref\TestConsole.dll
+C:\Repos-github\TestConsole\obj\Debug\net6.0\TestConsole.pdb
+C:\Repos-github\TestConsole\obj\Debug\net6.0\TestConsole.genruntimeconfig.cache
